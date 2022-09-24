@@ -1,4 +1,8 @@
-# personas
+# mascotas
+ - proyecto en vuejs
+ - este proyecto es solo frontend en su version 1
+ - consume api TiendaMascotas-Express https://github.com/MiguelPasaje/TiendaMascotas-Express
+
 
 ## Project setup
 ```
